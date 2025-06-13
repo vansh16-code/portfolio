@@ -1,16 +1,16 @@
 const contacts = [
   {
-    icon: '📧',
+    icon: '📧 Email',
     label: 'Email',
     href: 'mailto:vanshmahajan2023@gmail.com',
   },
   {
-    icon: '🔗',
+    icon: '🔗 LinkedIn',
     label: 'LinkedIn',
     href: 'https://linkedin.com/in/vansh-mahajan-267696277',
   },
   {
-    icon: '💻',
+    icon: '💻 Github' ,
     label: 'GitHub',
     href: 'https://github.com/vansh16-code',
   },
